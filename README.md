@@ -21,4 +21,9 @@ The system offers a range of benefits to members of the construction industry, s
  <h2>System Requirement</h2>
  <p> The project designed to be run on wildfly JBoss Enterprise Application Platform 13.0.0 or later.All you need to build these projects is Java 8.0 (Java SDK 1.8) or later and Maven 3.3.1 or later.
 </p>
-<h2>how to use <h2>
+<h2>How To Use </h2>
+    <ul>
+        <li>Clone this repository</li>
+        <li>In the target folder there is a .war file, install it into the server.  <a href="https://stackoverflow.com/questions/36180999/how-to-create-and-deploy-war-in-intellij?lq=1">See how to deploy war file</a> </li> 
+        <li> Import database from the dump folder</li>
+    </ul>
